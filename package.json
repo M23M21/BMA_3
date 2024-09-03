@@ -1,0 +1,47 @@
+{
+  "name": "booking-app",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.20",
+    "@mui/material": "^5.15.20",
+    "@next/codemod": "^14.2.4",
+    "@reduxjs/toolkit": "^2.2.5",
+    "axios": "^1.7.2",
+    "eslint": "8.0.0",
+    "eslint-config-next": "^14.2.4",
+    "firebase": "^10.12.2",
+    "glob": "^11.0.0",
+    "http-proxy-middleware": "^3.0.0",
+    "next": "^14.2.4",
+    "nodemailer": "^6.9.13",
+    "nodemailer-express-handlebars": "^6.1.2",
+    "react": "^18.0.0",
+    "react-appointment-picker": "^3.2.1",
+    "react-calendar": "^5.0.0",
+    "react-clock": "^5.0.0",
+    "react-datepicker": "^7.1.0",
+    "react-dom": "^18.0.0",
+    "react-redux": "^9.1.2",
+    "react-select": "^5.8.0",
+    "react-time-picker": "^7.0.0",
+    "redux": "^5.0.1",
+    "redux-persist": "^6.0.0",
+    "rimraf": "^6.0.1",
+    "styled-components": "^6.1.11",
+    "universal-cookie": "^7.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  }
+}
